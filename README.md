@@ -59,8 +59,15 @@ I love the intersection of mobile development and AI—whether it's engineering 
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" />
+  <img src="https://skillicons.dev/icons?i=unreal" height="40" alt="Unreal Engine" />
+  <img src="https://skillicons.dev/icons?i=photoshop" height="40" alt="Photoshop" />
+  <img src="https://skillicons.dev/icons?i=notion" height="40" alt="Notion" />
+  <img src="https://img.shields.io/badge/Spline-5B57D4?style=for-the-badge&logo=spline&logoColor=white" height="30" alt="Spline" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" height="30" alt="Canva" />
+  <img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black" height="30" alt="Neon DB" />
 </p>
 
 ---
