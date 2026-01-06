@@ -69,7 +69,7 @@ I'm interested in the intersection of mobile development and AI—whether it's e
   <a href="https://www.unrealengine.com/"><img src="https://skillicons.dev/icons?i=unreal" height="40" alt="Unreal Engine" /></a>
   <a href="https://www.adobe.com/products/photoshop.html"><img src="https://skillicons.dev/icons?i=photoshop" height="40" alt="Photoshop" /></a>
   <a href="https://www.notion.so/"><img src="https://skillicons.dev/icons?i=notion" height="40" alt="Notion" /></a>
-  <a href="https://spline.design/"><img src="https://avatars.githubusercontent.com/u/51698656" height="40" alt="Spline" style="border-radius: 50%;" /></a>
+<a href="https://spline.design/"><img src="https://media.licdn.com/dms/image/v2/C4E0BAQGniDh9zBZm5Q/company-logo_200_200/company-logo_200_200/0/1646959598139/splinetool_logo?e=2147483647&v=beta&t=hwUcIp4PSHrs3gB5N7dyio7s-NT3LwDY9--Jz8yWmMY" height="40" alt="Spline" /></a>
 </p>
 
 ---
