@@ -38,15 +38,6 @@ I'm interested in the intersection of mobile development and AI—whether it's e
 
 ## AI & LLMs
 
-<p>
-  <a href="https://www.anthropic.com/claude"><img src="https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white" height="30" alt="Claude" /></a>
-  <a href="https://www.anthropic.com/"><img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" height="30" alt="Anthropic" /></a>
-  <a href="https://cursor.com/"><img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" height="30" alt="Cursor" /></a>
-  <a href="https://chat.openai.com/"><img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" height="30" alt="ChatGPT" /></a>
-  <a href="https://ai.google/"><img src="https://img.shields.io/badge/Google_AI-4285F4?style=for-the-badge&logo=google&logoColor=white" height="30" alt="Google AI" /></a>
-  <a href="https://modelcontextprotocol.io/"><img src="https://img.shields.io/badge/MCP-5A45FF?style=for-the-badge&logoColor=white" height="30" alt="MCP" /></a>
-</p>
-
 **Expertise:** RAG, MCP, LLM APIs, Context Engineering, AI Agent Development, Agentic Systems
 
 ---
