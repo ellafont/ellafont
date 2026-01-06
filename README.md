@@ -2,9 +2,9 @@
 
 **iOS Engineer | AI Tooling | Full-Stack Developer | Startup Founder**
 
-I'm a software engineer passionate about building products that simplify and inspire. Most recently, I was a **Software Engineer at a stealth AI startup** in Palo Alto, working on agentic coding R&D, and before that I co-founded **Whim Social** where I built a production iOS app from scratch that reached 300+ beta users across Stanford and UCSC.
+I'm a software engineer passionate about building solutions that simplify and inspire. Most recently, I was a **Software Engineer at a stealth AI startup** in Palo Alto, working on agentic coding R&D, and before that I co-founded **Whim Social** where I built a production iOS app from scratch that reached 300+ beta users across Stanford and UCSC.
 
-I love the intersection of mobile development and AI—whether it's engineering real-time geofencing systems, designing efficient database schemas, or integrating LLM APIs into user-facing products; Towards the goal of making all the chaos of life a **little less** through useful and intiutive technology. When I'm not coding, you'll probably find me surfing (ranked 11th nationally in NSSA women's division).
+I love the intersection of mobile development and AI—whether it's engineering real-time geofencing systems, designing efficient database schemas, or integrating LLM APIs into user-facing products; With the goal of reducing some of the chaos of life through useful and intiutive technology. When I'm not coding, you'll probably find me surfing (ranked 11th nationally in NSSA women's division).
 
 ---
 
@@ -47,7 +47,7 @@ I love the intersection of mobile development and AI—whether it's engineering 
   <a href="https://modelcontextprotocol.io/"><img src="https://img.shields.io/badge/MCP-5A45FF?style=for-the-badge&logoColor=white" height="30" alt="MCP" /></a>
 </p>
 
-**Expertise:** Claude Code, Cursor, RAG, MCP, LLM APIs, Context Engineering, AI Agent Development, Agentic Systems
+**Expertise:** RAG, MCP, LLM APIs, Context Engineering, AI Agent Development, Agentic Systems
 
 ---
 
