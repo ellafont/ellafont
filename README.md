@@ -11,15 +11,15 @@ I love the intersection of mobile development and AI—whether it's engineering 
 ## Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=swift" height="40" alt="Swift" />
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="TypeScript" />
-  <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" />
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="C" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS" />
+  <a href="https://swift.org/"><img src="https://skillicons.dev/icons?i=swift" height="40" alt="Swift" /></a>
+  <a href="https://python.org/"><img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" /></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=typescript" height="40" alt="TypeScript" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" height="40" alt="JavaScript" /></a>
+  <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" /></a>
+  <a href="https://en.cppreference.com/w/c"><img src="https://skillicons.dev/icons?i=c" height="40" alt="C" /></a>
+  <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS" /></a>
 </p>
 
 ---
@@ -27,9 +27,9 @@ I love the intersection of mobile development and AI—whether it's engineering 
 ## iOS & Mobile
 
 <p>
-  <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" height="40" alt="SwiftUI" />
-  <img src="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96_2x.png" height="40" alt="Xcode" />
-  <img src="https://developer.apple.com/assets/elements/icons/testflight/testflight-64x64_2x.png" height="40" alt="TestFlight" />
+  <a href="https://developer.apple.com/xcode/swiftui/"><img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" height="40" alt="SwiftUI" /></a>
+  <a href="https://developer.apple.com/xcode/"><img src="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96_2x.png" height="40" alt="Xcode" /></a>
+  <a href="https://developer.apple.com/testflight/"><img src="https://developer.apple.com/assets/elements/icons/testflight/testflight-64x64_2x.png" height="40" alt="TestFlight" /></a>
 </p>
 
 **Frameworks:** SwiftUI, UIKit, CoreLocation, MapKit, AVFoundation, CoreImage, StoreKit, MVVM
@@ -39,12 +39,12 @@ I love the intersection of mobile development and AI—whether it's engineering 
 ## AI & LLMs
 
 <p>
-  <img src="https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white" height="30" alt="Claude" />
-  <img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" height="30" alt="Anthropic" />
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" height="30" alt="Cursor" />
-  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" height="30" alt="ChatGPT" />
-  <img src="https://img.shields.io/badge/Google_AI-4285F4?style=for-the-badge&logo=google&logoColor=white" height="30" alt="Google AI" />
-  <img src="https://img.shields.io/badge/MCP-5A45FF?style=for-the-badge&logoColor=white" height="30" alt="MCP" />
+  <a href="https://www.anthropic.com/claude"><img src="https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white" height="30" alt="Claude" /></a>
+  <a href="https://www.anthropic.com/"><img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" height="30" alt="Anthropic" /></a>
+  <a href="https://cursor.com/"><img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" height="30" alt="Cursor" /></a>
+  <a href="https://chat.openai.com/"><img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" height="30" alt="ChatGPT" /></a>
+  <a href="https://ai.google/"><img src="https://img.shields.io/badge/Google_AI-4285F4?style=for-the-badge&logo=google&logoColor=white" height="30" alt="Google AI" /></a>
+  <a href="https://modelcontextprotocol.io/"><img src="https://img.shields.io/badge/MCP-5A45FF?style=for-the-badge&logoColor=white" height="30" alt="MCP" /></a>
 </p>
 
 **Expertise:** Claude Code, Cursor, RAG, MCP, LLM APIs, Context Engineering, AI Agent Development, Agentic Systems
@@ -54,23 +54,23 @@ I love the intersection of mobile development and AI—whether it's engineering 
 ## Infrastructure & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="GCP" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" />
-  <img src="https://skillicons.dev/icons?i=unreal" height="40" alt="Unreal Engine" />
-  <img src="https://skillicons.dev/icons?i=photoshop" height="40" alt="Photoshop" />
-  <img src="https://skillicons.dev/icons?i=notion" height="40" alt="Notion" />
-  <img src="https://img.shields.io/badge/Spline-5B57D4?style=for-the-badge&logo=spline&logoColor=white" height="30" alt="Spline" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" height="30" alt="Canva" />
-  <img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black" height="30" alt="Neon DB" />
+  <a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase" /></a>
+  <a href="https://cloud.google.com/"><img src="https://skillicons.dev/icons?i=gcp" height="40" alt="GCP" /></a>
+  <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" /></a>
+  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" /></a>
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" /></a>
+  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" /></a>
+  <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" height="40" alt="React" /></a>
+  <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" /></a>
+  <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" /></a>
+  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" /></a>
+  <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" /></a>
+  <a href="https://www.unrealengine.com/"><img src="https://skillicons.dev/icons?i=unreal" height="40" alt="Unreal Engine" /></a>
+  <a href="https://www.adobe.com/products/photoshop.html"><img src="https://skillicons.dev/icons?i=photoshop" height="40" alt="Photoshop" /></a>
+  <a href="https://www.notion.so/"><img src="https://skillicons.dev/icons?i=notion" height="40" alt="Notion" /></a>
+  <a href="https://spline.design/"><img src="https://cdn.simpleicons.org/spline/5B57D4" height="40" alt="Spline" /></a>
+  <a href="https://www.canva.com/"><img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="Canva" /></a>
+  <a href="https://neon.com/"><img src="https://cdn.simpleicons.org/neon/00E599" height="40" alt="Neon DB" /></a>
 </p>
 
 ---
