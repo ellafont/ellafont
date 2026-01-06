@@ -64,6 +64,7 @@ I love the intersection of mobile development and AI—whether it's engineering 
   <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" /></a>
   <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" /></a>
   <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" /></a>
+  <a href="https://vercel.com/"><img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Vercel" /></a>
   <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" /></a>
   <a href="https://www.unrealengine.com/"><img src="https://skillicons.dev/icons?i=unreal" height="40" alt="Unreal Engine" /></a>
   <a href="https://www.adobe.com/products/photoshop.html"><img src="https://skillicons.dev/icons?i=photoshop" height="40" alt="Photoshop" /></a>
