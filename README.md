@@ -39,10 +39,15 @@ I love the intersection of mobile development and AI—whether it's engineering 
 ## AI & LLMs
 
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white" height="30" alt="Claude" />
+  <img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" height="30" alt="Anthropic" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" height="30" alt="Cursor" />
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" height="30" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/Google_AI-4285F4?style=for-the-badge&logo=google&logoColor=white" height="30" alt="Google AI" />
+  <img src="https://img.shields.io/badge/MCP-5A45FF?style=for-the-badge&logoColor=white" height="30" alt="MCP" />
 </p>
 
-**Expertise:** RAG, MCP, LLM APIs, Context Engineering, AI Agent Development, Agentic Systems
+**Expertise:** Claude Code, Cursor, RAG, MCP, LLM APIs, Context Engineering, AI Agent Development, Agentic Systems
 
 ---
 
