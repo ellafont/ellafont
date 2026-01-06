@@ -4,7 +4,7 @@
 
 I'm a software engineer passionate about building solutions that simplify and inspire. Most recently, I was a **Software Engineer at a stealth AI startup** in Palo Alto, working on agentic coding R&D, and before that I co-founded **Whim Social** where I built a production iOS app from scratch that reached 300+ beta users across Stanford and UCSC.
 
-I love the intersection of mobile development and AI—whether it's engineering real-time geofencing systems, designing efficient database schemas, or integrating LLM APIs into user-facing products; With the goal of reducing some of the chaos of life through useful and intiutive technology. When I'm not coding, you'll probably find me surfing (ranked 11th nationally in NSSA women's division).
+I'm interested in the intersection of mobile development and AI—whether it's engineering real-time geofencing interactive systems, designing efficient database schemas, or integrating LLM APIs into user-facing products; With the goal of reducing some of the chaos of life through useful and intiutive technology. When I'm not coding, you'll probably find me surfing (ranked 11th nationally in NSSA women's division).
 
 ---
 
@@ -27,7 +27,7 @@ I love the intersection of mobile development and AI—whether it's engineering 
 ## iOS & Mobile
 
 <p>
-  <a href="https://developer.apple.com/xcode/swiftui/"><img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" height="40" alt="SwiftUI" /></a>
+  <a href="https://developer.apple.com/xcode/swift"><img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" height="40" alt="SwiftUI" /></a>
   <a href="https://developer.apple.com/xcode/"><img src="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96_2x.png" height="40" alt="Xcode" /></a>
   <a href="https://developer.apple.com/testflight/"><img src="https://developer.apple.com/assets/elements/icons/testflight/testflight-64x64_2x.png" height="40" alt="TestFlight" /></a>
 </p>
@@ -70,8 +70,6 @@ I love the intersection of mobile development and AI—whether it's engineering 
   <a href="https://www.adobe.com/products/photoshop.html"><img src="https://skillicons.dev/icons?i=photoshop" height="40" alt="Photoshop" /></a>
   <a href="https://www.notion.so/"><img src="https://skillicons.dev/icons?i=notion" height="40" alt="Notion" /></a>
   <a href="https://spline.design/"><img src="https://avatars.githubusercontent.com/u/51698656" height="40" alt="Spline" style="border-radius: 50%;" /></a>
-  <a href="https://www.canva.com/"><img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="Canva" /></a>
-  <a href="https://neon.com/"><img src="https://cdn.simpleicons.org/neon/00E599" height="40" alt="Neon DB" /></a>
 </p>
 
 ---
