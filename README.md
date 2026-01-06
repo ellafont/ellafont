@@ -61,6 +61,9 @@ I love the intersection of mobile development and AI—whether it's engineering 
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" />
   <img src="https://skillicons.dev/icons?i=unreal" height="40" alt="Unreal Engine" />
   <img src="https://skillicons.dev/icons?i=photoshop" height="40" alt="Photoshop" />
