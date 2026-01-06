@@ -20,6 +20,7 @@ I'm interested in the intersection of mobile development and AI—whether it's e
   <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS" /></a>
+  <a href="https://www.w3schools.com/sql/"><img src="https://skillicons.dev/icons?i=mysql" height="40" alt="SQL" /></a>
 </p>
 
 ---
