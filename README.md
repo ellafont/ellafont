@@ -1,10 +1,12 @@
 # Hi, I'm Ella Fontenot
 
-**iOS Engineer | AI Tooling | Full-Stack Developer | Startup Founder**
+**AI Engineer | iOS | Web | Full-Stack Developer | Startup Founder**
 
-I'm a software engineer passionate about building solutions that simplify and inspire. Most recently, I was a **Software Engineer at a stealth AI startup** in Palo Alto, working on agentic coding R&D, and before that I co-founded **Whim Social** where I built a production iOS app from scratch that reached 300+ beta users across Stanford and UCSC. Previously worked at Go Car Insurance as an intern on their mobile app (https://github.com/gomaps).
+I'm passionate about building solutions that simplify and streamline processes in our busy lives. 
 
-I'm interested in the intersection of mobile development and AI—whether it's engineering real-time geofencing interactive systems, designing efficient database schemas, or integrating custom agents into user-facing products; With the goal of reducing some of the chaos of life through useful and intiutive technology. When I'm not coding, you'll probably find me surfing (ranked 11th nationally in NSSA women's division).
+**My current role is AI Engineer at Olelo Intelligence** (https://www.olelo-ai.com/). Most recently, I was a Software Engineer at a stealth AI startup in Palo Alto, working on agentic coding R&D, and before that I co-founded Whim Social where I built a production iOS app from scratch that reached 300+ beta users across Stanford and UCSC. Previously worked at Go Car Insurance as an intern on their mobile app (https://github.com/gomaps).
+
+I'm interested in the intersection of web & mobile development and AI—whether it's engineering real-time geofencing interactive systems, designing efficient database schemas, or integrating custom agents into user-facing products; With the goal of reducing some of the chaos of life through useful and intiutive technology. When I'm not coding, you'll probably find me surfing (ranked 11th nationally in NSSA women's division).
 
 ---
 
@@ -39,7 +41,7 @@ I'm interested in the intersection of mobile development and AI—whether it's e
 
 ## AI & LLMs
 
-**Expertise:** RAG, MCP, LLM APIs, Context Engineering, AI Agent Development, Agentic Systems
+**Expertise:** Context Engineering, AI Agent Development, Agentic Systems, RAG, MCP, LLM APIs, Claude Agent SDK & Skills.
 
 ---
 
